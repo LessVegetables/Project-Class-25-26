@@ -1,0 +1,8 @@
+.vscode
+.DS_Store
+*/venv
+*.code-workspace
+*/__pycache__
+*.pyc
+.env
+Week1/nltk_data
